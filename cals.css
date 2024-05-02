@@ -1,0 +1,27 @@
+.ok{
+
+    margin: 100px 100px ;
+}
+#og{
+    border: 1px solid rgb(137, 134, 134);
+    border-radius: 5px;
+    width: 250px;
+    justify-items: space-around;
+}
+.we{
+   margin: 10px;
+   height: 40px;
+   width: 90%;
+   font-size: large;
+}
+#see{
+   
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
